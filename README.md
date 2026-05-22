@@ -2,6 +2,7 @@
 I'm learning Python
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickpassosb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patrickpassosb&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patrickpassosb&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
