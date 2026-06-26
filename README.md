@@ -1,6 +1,6 @@
 # My name is Patrick Passos
 
-I'm learning Python
+Science and technology
 
 # 📊 GitHub Stats:
 
